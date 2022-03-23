@@ -1,0 +1,14 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "lab for nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jake Sims",
+  "license": "MIT",
+  "dependencies": {
+    "request-promise": "^4.2.6"
+  }
+}
