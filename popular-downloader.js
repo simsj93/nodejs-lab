@@ -15,10 +15,12 @@
 
 //             rp(imageDetails)
 //                 .then((image) => {
-//                     fs.writeFile(`./downloads/${child.data.id}${path.extname(child.data.url)}`, image)
+//                     fs.writeFile(`./downloads/${child.data.id}${path.extname(child.data.url)}`, image, "base64")
 //                 })
 //         }
 //     })
-// })
+// }); 
+
+
 
 // I think I got pretty close here but it's still busted. 
